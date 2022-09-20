@@ -1,2 +1,2 @@
 # Mulheres.Tech
- Primeiro site da turma Mulehres.Tech 2022
+ Primeiro site da turma Mulheres.Tech 2022.1.
